@@ -991,6 +991,11 @@ input, select, textarea {
 				#thumbnails article .thumbnail img {
 					display: block;
 					width: 100%;
+					opacity: 0.7;
+				}
+
+				#thumbnails article .thumbnail img:hover{
+					opacity: 1;
 				}
 
 				#thumbnails article .thumbnail:before {
