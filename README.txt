@@ -2,6 +2,12 @@ This website was created for the MLH Hackation Hackathon that took place 4th of 
 The website represents a sample of the activities offered through the "My Staycation" Alexa Skill,
 which hopefully should be available on the Alexa Store soon. 
 
+
+
+-----------
+
+
+
 Lens by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
